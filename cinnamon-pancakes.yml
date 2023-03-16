@@ -1,0 +1,34 @@
+name: Cinnamon Pancakes
+author: Ethan Martin
+servings: 4
+prep_minutes: 10
+cook_minutes: 10
+
+ingredients:
+  - name: flour
+    unit: 1 1/4 cups
+  - name: granulated sugar
+    unit: 1 1/2 tablespoons
+  - name: baking powder
+    amount: 1
+    unit: tablespoon
+  - name: cinnamon
+    amount: 1
+    unit: tablespoon
+  - name: salt
+    unit: 3/4 teaspoon
+  - name: milk
+    unit: 1 1/3 cups
+  - name: egg, lightly beaten
+    amount: 1
+  - name: vegetable oil
+    amount: 3
+    unit: tablespoons
+  - name: vanilla extract
+    unit: 3/4 teaspoon
+
+steps:
+  - Add all dry ingredients to a medium-sized bowl and whisk until homogeneous.
+  - Add remaining ingredients and whisk until combined with few lumps. Do not overmix.
+  - Allow batter to rest for ~5 minutes.
+  - On a nonstick pan or griddle heated to 375℉, pour ~1/4 cup of batter for each pancake. Cook for 1 1/2 minutes per side or until golden brown and fully cooked through.

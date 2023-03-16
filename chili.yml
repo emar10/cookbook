@@ -1,0 +1,42 @@
+name: Chili
+author: Ethan Martin
+servings: 8
+prep_minutes: 10
+cook_minutes: 90
+
+ingredients:
+  - name: ground beef
+    amount: 1
+    unit: pound
+  - name: canned crushed tomatoes
+    amount: 28
+    unit: ounces
+  - name: canned pinto beans
+    amount: 15
+    unit: ounces
+  - name: canned kidney beans
+    amount: 15
+    unit: ounces
+  - name: medium onion, diced
+    amount: 1
+  - name: medium green pepper, diced
+    amount: 1
+  - name: medium red pepper, diced
+    amount: 1
+  - name: dark chocolate chips
+    amount: 1
+    unit: handful
+  - name: hot sauce of choice
+  - name: oregano
+  - name: ground cumin
+  - name: smoked paprika
+  - name: chili powder
+  - name: ground cayenne
+
+steps:
+  - Brown and break up ground beef in a stock pot over medium-high heat. Move beef to a separate plate or bowl, leaving just enough fat to cook with.
+  - Add peppers and onions to the pot and cook until softened, about 5 minutes.
+  - Return beef to the pot, stir in both cans of beans (including liquid) and the crushed tomatoes.
+  - Add spices, hot sauce, salt and pepper to taste.
+  - Bring chili to a simmer, then reduce heat and cook for at least an hour.
+  - Before serving, add chocolate chips and stir until melted and fully incorporated.
