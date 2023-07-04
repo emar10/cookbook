@@ -1,0 +1,47 @@
+name: Macaroni Salad
+author: Andrew Rea
+url: https://basicswithbabish.co/basicsepisodes/pasta-salad
+servings: 8
+prep_minutes: 20
+cook_minutes: 10
+
+ingredients:
+  - name: large carrot, diced
+    amount: 1
+  - name: red bell pepper, diced
+    amount: 1
+  - name: celery, diced
+    unit: ounces
+    amount: 2
+  - name: 1/2 red onion, diced
+  - name: pasta of choice
+    unit: pound
+    amount: 1
+  - name: fresh dill, chopped
+    unit: tablespoons
+    amount: 4
+  - name: fresh parsley, chopped
+    unit: tablespoons
+    amount: 2
+  - name: mayonnaise
+    unit: ounces
+    amount: 6
+  - name: sour cream
+    unit: ounces
+    amount: 2.75
+  - name: apple cider vinegar/dill pickle brine
+    unit: tablespoons
+    amount: 2
+  - name: dijon mustard
+    unit: tablespoon
+    amount: 1
+  - name: garlic powder
+    unit: teaspoon
+    amount: 0.25
+
+steps:
+  - Prepare pasta per box instructions for al dente. Drain, rinse, and cool.
+  - Add vegetables, herbs, and cooled pasta to a large bowl and toss to combine.
+  - In a separate small bowl, whisk together remaining ingredients along with salt and pepper to taste.
+  - Add resulting dressing to the large bowl and fold in until well combined.
+  - Cover and refrigerate for at least 2 hours before serving.
