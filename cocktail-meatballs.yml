@@ -13,12 +13,12 @@ ingredients:
     unit: packets
   - name: egg
     amount: 1
-  - name: 15
-    unit: ounces
-    amount: black currant jelly
-  - name: ketchup
-    unit: ounces
+  - name: black currant jelly
     amount: 15
+    unit: ounces
+  - name: ketchup
+    amount: 15
+    unit: ounces
 
 steps:
   - In a large bowl, add egg, ground beef, and soup mix packets and mix by hand until well combined.
