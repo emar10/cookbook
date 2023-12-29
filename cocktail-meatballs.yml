@@ -1,0 +1,28 @@
+name: Cocktail Meatballs
+author: Ethan Martin
+servings: 10
+prep_minutes: 10
+cook_minutes: 140
+
+ingredients:
+  - name: ground beef
+    amount: 2
+    unit: pounds
+  - name: onion soup mix
+    amount: 2
+    unit: packets
+  - name: egg
+    amount: 1
+  - name: 15
+    unit: ounces
+    amount: black currant jelly
+  - name: ketchup
+    unit: ounces
+    amount: 15
+
+steps:
+  - In a large bowl, add egg, ground beef, and soup mix packets and mix by hand until well combined.
+  - Form mixture into 1 inch meatballs and arrange on a parchment-lined sheet pan.
+  - Bake meatballs at 350°F for ~20 minutes or until fully cooked.
+  - When meatballs are nearly done, add jelly and ketchup to a slow cooker on its low setting, stirring until the jelly incorporates.
+  - Add meatballs to slow cooker with the sauce, then cover and set to high for two hours.
