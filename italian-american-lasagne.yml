@@ -16,7 +16,7 @@ ingredients:
   - name: fresh basil
     amount: 4
     unit: sprigs
-  - name: fresh parsley leaves, finely chopped
+  - name: 1/2 cup fresh parsley leaves, finely chopped
   - name: ricotta cheese
     amount: 32
     unit: ounces
@@ -42,10 +42,8 @@ ingredients:
     amount: 1
     unit: tablespoon
   - name: onion powder
-    amount: 1
     unit: tablespoon
     amount: 1
-    unit: cup
   - name: red pepper flakes
     amount: 1
     unit: teaspoon
